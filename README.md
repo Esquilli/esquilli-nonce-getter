@@ -1,5 +1,5 @@
 # EsquilliDev Repository
-![Build](https://img.shields.io/badge/build-sucess-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![Made With](https://img.shields.io/badge/made%20with-love-red) 
+![Version](https://img.shields.io/badge/version-1.0.0-green) ![Made With]https://img.shields.io/badge/made%20with-python-blue) 
 
 Here I host my webpage and all things related to tweaks and .deb distribution.
 
